@@ -16,10 +16,11 @@ This repository provides a modular and customizable implementation of PPO for re
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ppo-gym-training.git
-   cd ppo-gym-training
+   git clone https://github.com/mohamedrxo/ppo.git
+   
 Install dependencies:
 bash
 Copy
 Edit
-pip install -r requirements.txt
+pip install pytorch
+pip install gym
