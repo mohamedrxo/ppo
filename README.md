@@ -18,9 +18,9 @@ This repository provides a modular and customizable implementation of PPO for re
    ```bash
    git clone https://github.com/mohamedrxo/ppo.git
    
-2.Install dependencies:
+2.Install dependencies:```
 bash
 Copy
-Edit
 pip install pytorch
 pip install pip install gymnasium[classic-control]
+```
